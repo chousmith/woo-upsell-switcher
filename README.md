@@ -1,4 +1,4 @@
-# woo-upsell-switcher
+# Woo Upsell Switcher
 Plugin to handle the idea of different Upsells product links based on different user locations?
 
 The name says "Woo" but at this time it is pretty much solely for switching the Infusionsoft One-click Upsell functionality, which really has very little / nothing to do with WooCommerce...
